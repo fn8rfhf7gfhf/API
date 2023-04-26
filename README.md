@@ -1,8 +1,8 @@
 # API
-API É um conjunto de rotinas e padrões de programação que permitem a criação de aplicativos e sua integração com outros aplicativos ou sistemas.
+API É um conjunto de rotinas e padrões de programação que permitem criar aplicativos e integrar com outros aplicativos ou sistemas.
 
 # Sobre esses projetos aqui
-eu consumi uma API da Nasa que todo dia gera um link para uma imagem do espaço 
-e um que te dará ideias ou coisas para fazer caso esteja entediado
+eu consumi uma API da Nasa que todo dia gera um link pra uma ''imagem do espaço''
+e outra que te dará ideias ou coisas para fazer caso esteja entediado
 
-<img src="https://i.gifer.com/origin/df/dfea5974d2e485361c64e94b5279ebd1_w200.gif" height="250" width="300">
+<img src="https://i.ibb.co/f9rDXHh/Screenshot-1.png" height="250" width="900">
